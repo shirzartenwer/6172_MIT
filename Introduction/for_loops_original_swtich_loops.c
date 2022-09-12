@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <sys/time.h>
 
-#define n 100
+#define n 1024
 double A[n][n];
 double B[n][n];
 double C[n][n];
