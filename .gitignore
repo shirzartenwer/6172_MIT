@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+
+# VScode settings
+.vscode/*
+*/.vs/*
+*/__pycache__/*
